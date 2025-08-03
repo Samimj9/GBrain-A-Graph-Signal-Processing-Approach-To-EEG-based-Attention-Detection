@@ -42,21 +42,10 @@ This project implements a graph signal processing method for detecting attention
 
 \## Requirements
 
-\- Python 3.x
+\- Python 3.10
 
-\- Packages: numpy, scipy, mne, matplotlib, scikit-learn, networkx, etc.
+\- Packages: numpy, scipy, mne, matplotlib, scikit-learn, networkx.
 
-
-
-\## Usage
-
-1\. Prepare your EEG data according to `src/EEG\_data\_reading.py`.
-
-2\. Run preprocessing with `src/EEG\_data\_cleaning.py`.
-
-3\. Compute connectivity and extract features with `src/Clean\_vs\_raw\_EEG.py`.
-
-4\. Use notebooks for further analysis and visualization.
 
 
 
